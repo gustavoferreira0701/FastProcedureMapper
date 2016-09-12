@@ -5,7 +5,7 @@ function Conectar() {
 	conexao = mysql.createConnection({
 		host:"127.0.0.1",
 		user:"root",
-		password:"#gt512M4a1",
+		password:"naotenhosenha",
 		database:"App",
 		multipleStatements:true
 	});
